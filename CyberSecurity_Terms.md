@@ -23,3 +23,10 @@
         3. Hacktivists : They are groups of people who have a common ideology and want to promote it by attacking other groups of different ideology. Example - anti-abortion, religious, ..
         4. Script Kiddies : These are people without technological knowledge but can do simple point and click hacking and follow tutorials to bypass security limitations.
         5. Insider threats : These can either be malicious or non malicious actors who cause damage to the company by either not being aware or intentionally leaking secrets.
+9. Reverse Shell - The attacker opens up a listening port and the victim connects to the attacker's machine with a shell terminal. This is the most commonly used form.
+10. Bind Shell -  The victim opens up a listening port with shell executing on it and the attacker connects to the victim's machine.
+11. Staged Payload - The payload is splitted up and send to the victim machine. It is less stable. In metasploit, the stage payloads are seperated by '/'.
+12. Non-Staged Payload - The payload is send all at once to the victim machine. High chances of not working and getting detected by Anti-virus. In metasploit, the non-staged payloads are seperated by '_".
+13. Gaining Root - The process of exploiting a vulnerability in a victim's machine and gaining access to the root user.
+14. Manual Exploitation - Either creating a payload manually for a vulnerability or finding a payload online for the exploitation and not using automatic tools like metasploit.
+15. 

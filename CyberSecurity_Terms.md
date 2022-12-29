@@ -29,4 +29,6 @@
 12. Non-Staged Payload - The payload is send all at once to the victim machine. High chances of not working and getting detected by Anti-virus. In metasploit, the non-staged payloads are seperated by '_".
 13. Gaining Root - The process of exploiting a vulnerability in a victim's machine and gaining access to the root user.
 14. Manual Exploitation - Either creating a payload manually for a vulnerability or finding a payload online for the exploitation and not using automatic tools like metasploit.
-15. 
+15. Brute Force attacks - Trying out every combination of username and passwords one after the another to get access.
+16. Credential Stuffing - Injecting breached credentials in hope of getting access.
+17. Passweord Spraying - Using known usernames without knowing the passwords. 

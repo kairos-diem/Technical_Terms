@@ -41,3 +41,6 @@
 24. IDS - Intrustion detection system is similar to a web camera that takes note of malicious activity in your network or host.
 25. IPS - Intrusion prevention system is similar to a secuirty gaurd that not only notices the malicious activity but can also be advised to do certain actions in various scenarios.
 26. Incident response - Incident response or IR is a structured process organizations use to identify and deal with cybersecurity incidents as described by NIST. It includes the stages of Preparation; Detection and Analysis; Containment, Eradication, and Recovery; and Post-Event Activity.
+27. Security information and event management (SIEM) - A security solution that helps organizations detect threats before they disrupt business. Examples: Fortinet, IBM QRadar, McAfee SIEM, and Splunk.
+28. Managed Detection and Response (MDR) - MDR Security service providers will investigate an alert and determine whether it is a true incident or a false positive. This is accomplished through a combination of data analytics, machine learning, and human investigation.
+

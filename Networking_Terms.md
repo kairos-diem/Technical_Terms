@@ -39,4 +39,13 @@
 23. IGP - Interior Gateway protocol is used for routing within an autonomous system network. Example:RIP, OSPF,...
 24. EGP - Exterior Gateway Protocol is used for routing between two or more autonomous system networks. Example:BGP.
 25. Access control list (ACL) - a list of rules that specifies which users or systems are granted or denied access to a particular object or system resource.
+26. Port mirroring - The process of sending the packets of one switch port to another switch port.
+27. Static routing - Manually configure pre-defined pathways. Pros: No overhead, easy to configure and more secure. Cons: Difficult on large networks, no automatic loop prevention, no automatice rerouting on outages and manually update changes.
+28. Dynamic routing - Automatic routing. Pros: No manual management, automatically add new routing and scaling. Cons: Higheroverhead and more initial configuration.
+29. IPv4 - Internet Protocol version 4. Size is 32 bits or 4 bytes. 4 octets
+30. IPv6 - Internet Protocol version 6. Size is 128bits or 16 bytes. Hexa-decimal notation. 8 octets.
+31. Dual Stack routing - The process of configuring both ipv4 and ipv6 in the same network.
+32. Tunneling - The process of sending packets of one format into another format for security or other purposes.
+33. NDP - Neighbour discovery protocol. Used in IPv6.
+34. 
   

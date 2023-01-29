@@ -47,5 +47,13 @@
 31. Dual Stack routing - The process of configuring both ipv4 and ipv6 in the same network.
 32. Tunneling - The process of sending packets of one format into another format for security or other purposes.
 33. NDP - Neighbour discovery protocol. Used in IPv6.
-34. 
+34. Packet Shaping - The process of limiting bandwidth that can be consumed by certain applications to ensure high performance for critical applications.
+35. Class of service - A way of managing traffic in a network by grouping similar types of traffic like email, VoIP, file transfer, ...
+36. DSCP - Differentiated Service Code Point, It is a mechanism for classifying network traffic in an IP network using the DS or DSCP field.
+37. Circuit Switching - It is similar to telephone service where once established is not removed until the whole conversation or transmission has ended.
+38. Packet Switching - It is more dynamic. Data is grouped and send over the network, It requires more bandwidth.
+39. SDN - Software Defined Networking is much more programmable and as the name suggests directly programmed and configured. It is also centrally managed.
+40. Distributed switching - It is a hierarchical model of switching with a central switch and other switches are distributed between the endpoints.
+41. Loopback address - It is an address that refers back to yourself.
+42. Z-wave - It is a wireless, radio frequency based communication technology designed particularly for control, monitoring and status reading of household applications. Prominent in the IoT space.
   

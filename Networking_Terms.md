@@ -56,4 +56,16 @@
 40. Distributed switching - It is a hierarchical model of switching with a central switch and other switches are distributed between the endpoints.
 41. Loopback address - It is an address that refers back to yourself.
 42. Z-wave - It is a wireless, radio frequency based communication technology designed particularly for control, monitoring and status reading of household applications. Prominent in the IoT space.
-  
+43. Hub - A network hardware device for connecting multiple Ethernet devices together and making them act as a single network segment. Works in layer 1 of OSI model.
+44. Bridge - A device used to connect multiple LANs together with a larger Local Area Network (LAN). It is a layer 2 device.
+45. Switch - A network switch connects devices in a network to each other, enabling them to talk by exchanging data packets. A switch can be layer 2 or layer 3.
+46. Router - A device used to connect different networks together and sends data packets from one network to another. It is used in layer 3.
+47. NAS - Network-attached storage is a file-level computer data storage server connected to a computer network providing data access to a heterogeneous group of clients. Connected using normal ethernet.
+48. SAN - A storage area network or storage network is a computer network which provides access to consolidated, block-level data storage. Major difference is use of specialised fibre optic channels.
+49. Jumbo frame - They are Ethernet frames with more than 1500 bytes of payload, the limit set by the IEEE 802.3 standard. Commonly, jumbo frames can carry up to 9000 bytes of payload, but smaller and larger variations exist and some care must be taken using the term.
+50. Types of recovery sites <br/>
+ a. Cold site - It is an empty building with only racks, no hardware, no data and no people. <br/>
+ b. Warm site - Between a hot and cold site where the hardware is ready and waiting. <br/>
+ c. Hot Site - Its an exact replica of the production system with both hardware, data and people. <br/>
+51. RADIUS protocol - It provides centralized authentication services to the servers through which remote users connect to the network.
+ 

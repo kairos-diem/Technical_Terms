@@ -68,4 +68,9 @@
  b. Warm site - Between a hot and cold site where the hardware is ready and waiting. <br/>
  c. Hot Site - Its an exact replica of the production system with both hardware, data and people. <br/>
 51. RADIUS protocol - It provides centralized authentication services to the servers through which remote users connect to the network.
+52. EAP - Extensible Authentication Protocol. It is used to pass authentication information between the client and the authentication server.
+53. DDoS Amplification - Multiplying the effect of DDoS by reflecting it off another device.
+54. Switch Spoofing VLAN hopping - Switch spoofing is a type of VLAN hopping attack that works by taking advantage of an incorrectly configured trunk port.
+55. Double tagging VLAN hopping - This type of attack takes advantage of the way that hardware on most switches operates. Most switches perform only one level of 802.1Q de-encapsulation, which allows an attacker to embed a hidden 802.1Q tag inside the frame. This tag allows the frame to be forwarded to a VLAN that the original 802.1Q tag did not specify.
+56. Man in the browser -  A proxy Trojan horse[1] that infects a web browser by taking advantage of vulnerabilities in browser security to modify web pages, modify transaction content or insert additional transactions, all in a covert fashion invisible to both the user and host web application. 
  

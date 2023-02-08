@@ -26,7 +26,7 @@
 9. Reverse Shell - The attacker opens up a listening port and the victim connects to the attacker's machine with a shell terminal. This is the most commonly used form.
 10. Bind Shell -  The victim opens up a listening port with shell executing on it and the attacker connects to the victim's machine.
 11. Staged Payload - The payload is splitted up and send to the victim machine. It is less stable. In metasploit, the stage payloads are seperated by '/'.
-12. Non-Staged Payload - The payload is send all at once to the victim machine. High chances of not working and getting detected by Anti-virus. In metasploit, the non-staged payloads are seperated by '_".
+12. Non-Staged Payload - The payload is send all at once to the victim machine. High chances of not working and getting detected by Anti-virus. In metasploit, the non-staged payloads are seperated by "_".
 13. Gaining Root - The process of exploiting a vulnerability in a victim's machine and gaining access to the root user.
 14. Manual Exploitation - Either creating a payload manually for a vulnerability or finding a payload online for the exploitation and not using automatic tools like metasploit.
 15. Brute Force attacks - Trying out every combination of username and passwords one after the another to get access.
@@ -43,4 +43,36 @@
 26. Incident response - Incident response or IR is a structured process organizations use to identify and deal with cybersecurity incidents as described by NIST. It includes the stages of Preparation; Detection and Analysis; Containment, Eradication, and Recovery; and Post-Event Activity.
 27. Security information and event management (SIEM) - A security solution that helps organizations detect threats before they disrupt business. Examples: Fortinet, IBM QRadar, McAfee SIEM, and Splunk.
 28. Managed Detection and Response (MDR) - MDR Security service providers will investigate an alert and determine whether it is a true incident or a false positive. This is accomplished through a combination of data analytics, machine learning, and human investigation.
+29. Data minimization - A data controller should limit the collection of personal information to what is directly relevant and necessary to accomplish a specified purpose.
+30. DLP technology - Data loss prevention technology is a set process and tools to ensure that sensitive data is not lost, misused, or accessed by unauthorized users.
+31. DAD -  Disclosure, Alteration, and Destruction/Denial.
+32. De-identification of data - The process of removing personal information from a record or data set.
+33. Malware - Sort for “malicious software”, is a file or code,typically delivered over a network, that infects, explores, steals or conducts virtually any behavior an attacker wants.
+34. Root-kit - It is a set of tools run on a computer to get root level access.
+35. SCAP framework - A  multi-purpose framework of specifications that supports automated configuration, vulnerability and patch checking, technical control compliance activities, and security measurement.
+36. OWASP Top 10 Proactive controls: <br/>
+    1. C1: Define Security Requirements
+    2. C2: Leverage Security Frameworks and Libraries
+    3. C3: Secure Database Access
+    4. C4: Encode and Escape Data
+    5. C5: Validate All Inputs
+    6. C6: Implement Digital Identity
+    7. C7: Enforce Access Controls
+    8. C8: Protect Data Everywhere
+    9. C9: Implement Security Logging and Monitoring
+    10. C10: Handle All Errors and Exceptions.
+37. Digital certificate - It is  used to cryptographically link ownership of a public key with the entity that owns it.
+38. Kerckhoff's principle - The concept that a Cryptographic system should be designed to be secure even if all its details, except for the key, are publically known.
+39. AAA -  Authentication, authorization, and accounting.
+40. RAID configurations: <br/>
+    1. RAID 0 - Split data evenly.
+    2. RAID 1 - Mirroring.
+    3. RAID 2 - Split data at the bit with error hamming code.
+    4. RAID 3 - Split data at the byte level with dedicated parity bit disk.
+    5. RAID 4 - Block level spliting with dedicated parity bit disk.
+    6. RAID 5 - Block level spliting with distributed parity bit.
+    7. RAID 6 - Block level spliting with two parity bits.
+41. 
+
+
 

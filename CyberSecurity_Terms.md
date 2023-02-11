@@ -72,7 +72,22 @@
     5. RAID 4 - Block level spliting with dedicated parity bit disk.
     6. RAID 5 - Block level spliting with distributed parity bit.
     7. RAID 6 - Block level spliting with two parity bits.
-41. 
-
-
-
+41. CASB - Cloud Access Security Broker is an on-premises or cloud based software that sits between cloud service users and cloud applications, and monitors all activity and enforces security policies.
+42. Hypervisors - It is a software that creates and runs virtual machines (VMs). A hypervisor allows one host computer to support multiple guest VMs by virtually sharing its resources, such as memory and processing. It is also called a virtual machine monitor. There are two types of hypervisors: Type 1 which runs directly on the host's hardware and type 2 which runs as a software layer.
+43. Containers - It is a unit of software that packages code and its dependencies so the application runs quickly and reliably across computing environments.
+44. Cloud transit Gateway - It is a network transit hub that you can use to interconnect your virtual private clouds (VPCs) and on-premises networks.
+45. IaC - Infrastructure as Code is the process of managing and provisioning computer data centers through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools.
+46. SSL Stripping - It is a cybersecurity threat that leads to a downgrade from an HTTPS secure connection to a less secure encrypted HTTP connection, causing the whole web connection is not encrypted anymore.
+47. Broadcast storms - It is the accumulation of broadcast and multicast traffic on a computer network. Extreme amounts of broadcast traffic constitute a "broadcast storm".
+48. Network hops - It is the process when a packet is passed from one network segment to another.
+49. DMZ - A de-militarized zone network functions as a subnetwork containing an organization's exposed, outward-facing services. It acts as the exposed point to an untrusted network, commonly the internet.
+50. SPAN - Switch port analyzer is a dedicated port on a switch that takes a mirrored copy of network traffic from within the switch to be sent to a destination. The destination is typically a monitoring device, or other tools used for troubleshooting or traffic analysis.
+51. Jump server - It is a hardened device on a network that spans two dissimilar security zones and provides a controlled means of access between them.
+52. Jump boxes - It is a machine used to provide administrators with a low-risk proxy for managing sensitive assets, since administrators' everyday workstations can't be trusted. To be really low risk, jump boxes need proactive, careful configuration management.
+53. UTM - Unified threat management is an approach to information security where a single hardware or software installation provides multiple security functions.
+54. DNS Sinkhole - It is a Domain Name System server that has been configured to hand out non-routable addresses for a certain set of domain names. Computers that use the sinkhole fail to access the real site.
+55. Bluejacking - It is the sending of unsolicited messages over Bluetooth to Bluetooth-enabled devices such as mobile phones, PDAs or laptop computers.
+56. Bluesnarfing - It is the theft of information from a wireless device through a Bluetooth connection.
+57. sFlow - It is a multi-vendor, packet sampling technology used to monitor network devices including routers, switches, host devices and wireless access points. sFlow is an embedded technology – it is implemented through dedicated hardware chips embedded in the router/switch.
+58. COOP - Continuity of operations.
+59. Pagefile - It is also called a swap file or virtual memory file is utilized inside Windows operating frameworks to store information from the RAM when it turns out to be full.  

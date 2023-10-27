@@ -1,14 +1,14 @@
 <h2>Terms & Defenitions:</h2>
 
 1. Security Assets - Security Assets are critical resources which maintain the working of your company and have to be protected for the continuity of your business.
-    1. People - Everyone from the security guard to the top most CEO and founders on the board.
+    1. People - Everyone from the security guard to the topmost CEO and founders on the board.
     2. Process - The procedures for doing the successful completion of work from start to finish.
-    3. Technology - All the software and hardware related tools and machinery which are critical for the company’s day to day activities.
+    3. Technology - All the software and hardware-related tools and machinery which are critical for the company’s day to day activities.
 2. CIA triad - It is model designed to guide policy formation for information security within an organization.
     1. Confidentiality - The quality that only the appropriate person can see the appropriate data and no one else.
     2. Integrity - The quality that the data does not get changed without the consent of the original owner.
-    3. Availability - The quality that the processes are up and ready to use even in unfavorable conditions.
-3. Cybersecurity Frameworks - They are the guidelines, standards, and best practices for risk management in a company.
+    3. Availability - The quality that the processes are up and ready to use even in unfavourable conditions.
+3. Cybersecurity Frameworks - These the guidelines, standards, and best practices for risk management in a company.
     1. NIST cybersecurity framework - They are released by the US national Institute of Standards and Technology for risk management. They consist of five stages: identify, protect, detect, respond and recover. The first two stages happen before an incident and the next three after it.
 4. Vulnerability - A vulnerability refers to any weakness that is present in your security assets.
 5. Exploit - An exploit is way or a procedure to make use of the vulnerability to get a desired result which may or may not be malicious.
@@ -31,7 +31,7 @@
 14. Manual Exploitation - Either creating a payload manually for a vulnerability or finding a payload online for the exploitation and not using automatic tools like metasploit.
 15. Brute Force attacks - Trying out every combination of username and passwords one after the another to get access.
 16. Credential Stuffing - Injecting breached credentials in hope of getting access.
-17. Passweord Spraying - Using known usernames without knowing the passwords. 
+17. Password Spraying - Using known usernames without knowing the passwords. 
 18. SQL injection - SQL injection is a web security vulnerability that allows an attacker to interfere with the queries that an application makes to its database. It generally allows an attacker to view data that they are not normally able to retrieve. A site that is apparently vulnerable to SQLi can be detected just from weird behaviour of the server when dealing with SQLi related inputs. The only sure way to prevent SQL Injection attacks is input validation and parametrized queries including prepared statements.
 19. XSS - Cross site scripting is when the application/browser runs arbitrary scripting commands from the user and has no defence in place against them. Mitigations for XSS typically involve sanitizing data input (to make sure input does not contain any code), escaping all output (to make sure data is not presented as code), and re-structuring applications so code is loaded from well-defined endpoints.
 20. XSRF or CSRF - Cross-site request forgery, also known as one-click attack or session riding and abbreviated as CSRF or XSRF, is a type of malicious exploit of a website or web application where unauthorized commands are submitted from a user that the web application trusts. The major difference between this and XSS is that a malicious action takes place in XSRF always. The most effective method of protecting against CSRF is by using anti-CSRF tokens.
